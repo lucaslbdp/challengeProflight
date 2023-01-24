@@ -1,0 +1,18 @@
+.container__imgs{
+    display: flex;
+    align-items: center;
+}
+
+img{
+    width: 10rem;
+    margin: 0 8px;
+    border-radius: 20%;
+}
+
+.active{
+    opacity: 0.5;
+}
+
+.inactive{
+    opacity: 0.2;
+}

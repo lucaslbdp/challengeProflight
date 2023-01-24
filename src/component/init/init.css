@@ -1,0 +1,23 @@
+h3{
+    display: flex;
+    justify-content: center;
+    padding: 70px 0;
+    font-weight: bolder;
+    font-size: 2rem;
+}
+
+.icon{
+    width: 5rem;
+    height: 5rem;
+    margin: 0 20px;
+    cursor: pointer;
+    color: #62CCDE;
+    border-radius: 50%;
+}
+
+.container__logos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
