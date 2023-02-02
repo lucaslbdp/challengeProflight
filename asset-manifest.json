@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/challengeProflight/static/css/main.214d58ae.css",
+    "main.js": "/challengeProflight/static/js/main.9aa56672.js",
+    "static/js/787.2ee26d6e.chunk.js": "/challengeProflight/static/js/787.2ee26d6e.chunk.js",
+    "index.html": "/challengeProflight/index.html",
+    "main.214d58ae.css.map": "/challengeProflight/static/css/main.214d58ae.css.map",
+    "main.9aa56672.js.map": "/challengeProflight/static/js/main.9aa56672.js.map",
+    "787.2ee26d6e.chunk.js.map": "/challengeProflight/static/js/787.2ee26d6e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.214d58ae.css",
+    "static/js/main.9aa56672.js"
+  ]
+}
